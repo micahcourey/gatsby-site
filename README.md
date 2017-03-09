@@ -1,10 +1,8 @@
-# gatsby-starter-default
-The default Gatsby starter
+Gatsby Site
+===========
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
-## Deploy
+Playing with the Gasby static site generator to see how I like it.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+Technologies Used
+----------
+Gatsby, JavaScript, React, Webpack, Node.js, HTML, CSS
